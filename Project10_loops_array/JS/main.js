@@ -24,10 +24,10 @@ var fruits = ["Strawberry", "Kiwi", "Apple","Mango"];//our array is inbetween ou
 document.getElementById("arrayfruit").innerHTML=fruits.length;//the length of fruits is 
 }
 
-function let_keyboard(){
-let i = 23;
-for (let i = 0; i<23;i++){
-    
+function let_keyboard(){//function
+let i = 23;//using let keyboard
+for (let i = 0; i<23;i++){// a for loop
+
 }
-document.getElementById("let").innerHTML = i;
+document.getElementById("let").innerHTML = i;//we get 23 
 }
