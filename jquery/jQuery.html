@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    </head>
+    <script>//$() is same as jQuery()
+    $(document).ready(function(){
+        $("html").append(//insert content
+            "<body>\
+                <div id='container'>\
+                    <div id='inner'>\
+                        <h1>Basic jQuery</h1>\
+                            <p id='1'>Paragraph 1</p>\
+                            <p id='2'>Paragraph 2</p>\
+                            <p id='3'>Paragraph 3</p>\
+                </div>\
+            </div>\
+        </body>"
+
+        );
+        $("#2").css({"color":"red"});//assigning paragraph 2 the color red we are referencing it by the id value
+        $("#3").click(function(){//using the click function to hide header 1 when we click paragraph 3
+            $('h1').hide().fade();//here is where we tell it to hide header 1
+        });
+
+    });
+
+
+
+
+
+    </script>
+</html>
