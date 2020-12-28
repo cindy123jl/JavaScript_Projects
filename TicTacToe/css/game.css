@@ -37,8 +37,11 @@ canvas{
     pointer-events:none;
 }
 
+h1{
+    text-align: center;
+    color:rgb(245, 151, 167);
+}
+
 body{
-    text-align:center;
-    color:rgb(29, 111, 138);
     background-color: antiquewhite;
 }
