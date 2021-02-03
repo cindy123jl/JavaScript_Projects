@@ -9,6 +9,10 @@ document.write(x==y);//comparison is made
 
 document.write("<br>");//line break to create a line brake on the html
 
+document.write(x===y);//using the === operator returns  true
+
+document.write("<br>")
+
 document.write("10"+6);//returns 106 10 and 6 are concenated
 
 document.write("<br>");//line break
@@ -32,3 +36,5 @@ document.write("<br>");//line break
 document.write(5>10 || 16>22);//returns false because both equalities are false
 
 document.write("<br>");//line break
+
+
