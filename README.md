@@ -1,9 +1,18 @@
 # JavaScript_Projects
-Some Projects using Javascript
+ 
+ Here I have some Projects in the javascript language
+ 
+ # Projects
+ 
+ 
+[Python project full functioning website](https://github.com/cindy123jl/Python_Projects/tree/main/DjangoCheckbookProject)
 
-# Projects
+[Phonebook project](https://github.com/cindy123jl/Python_Projects/blob/main/phonebook_main.py)
 
--Tic Tac Toe
--Pizza Website
--Calculator
+## Python project full functioning website:
 
+This is a full functioning website using the Django framework. 
+
+## Phonebook project
+
+A phonebook demonstarting use of OOP, Tkinter GUI module using Tkinter Parent and Child relationships.
