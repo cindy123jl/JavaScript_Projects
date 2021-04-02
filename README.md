@@ -5,13 +5,14 @@
  # Projects
  
  
-[Python project full functioning website](https://github.com/cindy123jl/Python_Projects/tree/main/DjangoCheckbookProject)
+[Javascript project TicTacToe](https://github.com/cindy123jl/JavaScript_Projects/tree/main/TicTacToe)
 
 [Phonebook project](https://github.com/cindy123jl/Python_Projects/blob/main/phonebook_main.py)
 
-## Python project full functioning website:
+## Javascript project TicTacToe:
+A project where the user can play tictactoe. This game includes placement sounds and a winning sound when a win is 
+done.
 
-This is a full functioning website using the Django framework. 
 
 ## Phonebook project
 
